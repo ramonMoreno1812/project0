@@ -1,0 +1,25 @@
+form {
+    background-color: lightcoral;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.userInput {
+
+    border-radius: 15px;
+    font-size: 25px;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+
+
+}
+
+.submitButton {
+    border-radius: 15px;
+    font-size: 15px;
+    margin: auto;
+    /* width: 50%; */
+    text-align: center;
+}
